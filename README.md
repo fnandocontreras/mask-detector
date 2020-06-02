@@ -1,6 +1,8 @@
 # mask-detector
 During Covid19 quarantine i decided to implement my own version of face mask detector using OpenCV, Keras and Tensorflow Deep Learning models just for fun.
 
+[![Alt text](https://img.youtube.com/vi/GhPpzQR-WAI/0.jpg)](https://www.youtube.com/watch?v=GhPpzQR-WAI)
+
 
 ### Checkout the code:
 ```
